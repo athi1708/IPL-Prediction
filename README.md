@@ -54,6 +54,12 @@ Real-time data integration
 
 Advanced analytics
 
+**Output**
+<img width="1107" height="708" alt="image" src="https://github.com/user-attachments/assets/135aa8b1-87b5-426b-b60b-f1987a392961" />
+
+<img width="1122" height="712" alt="image" src="https://github.com/user-attachments/assets/ed9b602d-330e-4f4a-8e39-0f7906527ccd" />
+
+
 
 **Conclusion**
 
